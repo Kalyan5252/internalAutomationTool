@@ -35,7 +35,7 @@ Ideal for dev teams, operations, and backend engineers looking to expose interna
 | Frontend    | [Next.js](https://nextjs.org/), Tailwind CSS |
 | Backend     | [FastAPI](https://fastapi.tiangolo.com/) (Python) |
 | Storage     | Local filesystem (scripts directory) |
-| Deployment  | Ready for Docker, Railway, or custom VPS |
+| Deployment  | Ready for Docker or custom VPS |
 
 ---
 
